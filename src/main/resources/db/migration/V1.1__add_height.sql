@@ -1,0 +1,1 @@
+ALTER TABLE `test-db`.person ADD height INT UNSIGNED DEFAULT 0 NOT NULL;
